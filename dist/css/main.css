@@ -23,6 +23,9 @@
 * {
   box-sizing: border-box; }
 
+.menu-item {
+  list-style: none; }
+
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5;
