@@ -9,7 +9,7 @@
 
   .btn-line {
     @include easeOut;
-    background: white;
+    background: set-text-color($primary-color);
     width: 28px;
     height: 3px;
     margin-bottom: 5px;
@@ -112,7 +112,7 @@
   }
 
   .nav-link {
-    color: #fff;
+    color: set-text-color($primary-color);
     display: inline-block;
     position: relative;
     font-size: 30px;
